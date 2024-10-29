@@ -49,8 +49,8 @@ https://www.w3schools.com/kotlin/index.php
 
 ### Etape 03 : Créer votre première application Android en Java
 
-- [01 - La première application avec Android Studio (Java)](https://developer.android.com/codelabs/build-your-first-android-app#0)
+- [01 - La première application avec Android Studio - Part 01](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
-- [02 - La première application avec Android Studio (Kotlin)](https://developer.android.com/training/basics/firstapp)
+- [02 - La première application avec Android Studio - Part 02](https://developer.android.com/training/basics/firstapp)
 
 ---
