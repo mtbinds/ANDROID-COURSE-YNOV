@@ -55,6 +55,10 @@ https://www.w3schools.com/kotlin/index.php
 
 - [Principes de base d'Android avec Compose](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
+### Etape 05 : Principes de base de Jetpack Compose
+
+- [Principes de base de Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics?hl=fr#0)
+
 ---
 
 
