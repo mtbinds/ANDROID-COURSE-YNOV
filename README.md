@@ -57,8 +57,5 @@ https://www.w3schools.com/kotlin/index.php
 
 ### Etape 04 : Premiers pas avec Jetpack Compose
 
-***4.1. Principes de base d'Android avec Compose***
-
-[Principes de base d'Android avec Compose](https://developer.android.com/courses/android-basics-compose/unit-1?hl=fr)
 
 
