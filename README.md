@@ -55,7 +55,6 @@ https://www.w3schools.com/kotlin/index.php
 
 ---
 
-### Etape 04 : Premiers pas avec Jetpack Compose
 
 
 
