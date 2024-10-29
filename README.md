@@ -54,3 +54,11 @@ https://www.w3schools.com/kotlin/index.php
 - [02 - La première application avec Android Studio - Part 02](https://developer.android.com/codelabs/build-your-first-android-app#0)
 
 ---
+
+### Etape 04 : Premiers pas avec Jetpack Compose
+
+***4.1. Principes de base d'Android avec Compose***
+
+[Principes de base d'Android avec Compose](https://developer.android.com/courses/android-basics-compose/unit-1?hl=fr)
+
+
