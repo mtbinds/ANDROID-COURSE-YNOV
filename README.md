@@ -17,7 +17,7 @@ Vous trouverez une liste de cours théoriques dans [ce répertoire](./courses/).
 
 ---
 
-# Pratique et apprentissage
+# 1. Dcouverte du développement mobile à travers la pratique et l'apprentissage (29/10/2024)
 
 ---
 
@@ -60,6 +60,14 @@ https://www.w3schools.com/kotlin/index.php
 - [Principes de base de Jetpack Compose](https://developer.android.com/codelabs/jetpack-compose-basics?hl=fr#0)
 
 ---
+
+# 2. Cours théorique + pratique (31/10/2024)
+
+[Théorie et pratique](./THEORY_LABS/README.md)
+
+---
+
+**Good Luck !**
 
 
 
