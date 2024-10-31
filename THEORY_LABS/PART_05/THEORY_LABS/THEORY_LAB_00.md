@@ -20,6 +20,7 @@
       - [Objectifs](#objectifs-3)
       - [Étapes de Développement](#étapes-de-développement-3)
     - [5. Conclusion et Ressources](#5-conclusion-et-ressources)
+    - [6. Dépôt de l'application](#6-dépôt-de-lapplication)
 
 ---
 
@@ -168,6 +169,13 @@ fun AppNavigation() {
 ### 5. Conclusion et Ressources
 
 Ces travaux pratiques vous permettront de maîtriser l'écosystème `Compose` et de créer des applications interactives et modernes.
+
+---
+
+### 6. Dépôt de l'application 
+
+Veuillez déposer votre application **(To-Do List)** **(.apk)** archivée **(.zip)** en suivant [ce lien](https://classroom.google.com/c/NzI3NDY5MzYzNTI0?cjc=bzzt6ir)
+
 
 Pour aller plus loin :
 
