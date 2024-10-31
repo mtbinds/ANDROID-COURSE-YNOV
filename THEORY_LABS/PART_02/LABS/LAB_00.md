@@ -172,7 +172,7 @@ fun NavigationExample() {
 }
 ```
 
-**Objectif** : Maîtriser la navigation de base entre plusieurs écrans.
+**Objectif** : Maîtriser la navigation de base entre plusieurs écrans, pour plus de détails, vous pouvez accomplir [cet exemple](https://developer.android.com/codelabs/basic-android-kotlin-compose-navigation?hl=fr#0) sur **Google Developers**.
 
 ---
 
