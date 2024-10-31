@@ -121,7 +121,7 @@ fun CounterScreen(viewModel: CounterViewModel = viewModel()) {
 
 ### 4. Gestion des Ressources
 
-Compose offre des moyens simples pour accéder aux ressources dans Android.
+Compose offre des moyens simples pour accéder aux ressources dans **Android**.
 
 #### Exercice 4 : Appliquer des couleurs et des chaînes de caractères
 
