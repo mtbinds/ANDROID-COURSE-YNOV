@@ -61,7 +61,7 @@ https://www.w3schools.com/kotlin/index.php
 
 ---
 
-# 2. Cours théorique + pratique (31/10/2024)
+# 2. Cours théoriques et pratiques (31/10/2024)
 
 [Théorie et pratique](./THEORY_LABS/README.md)
 
