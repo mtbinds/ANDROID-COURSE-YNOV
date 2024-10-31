@@ -26,8 +26,6 @@
 
 ---
 
-Coming Soon
-
 ## [Partie 3 : Intégration Android et Compose](./PART_03/)
 
 1. **Cycle de vie de l’activité et des fragments** : Comment `Compose` s’intègre dans le cycle de vie d’**Android**.
@@ -38,6 +36,8 @@ Coming Soon
 - [Labs](./PART_03/LABS/)
   
 ---
+
+Coming Soon
 
 ## [Partie 4 : Approfondissement de Jetpack Compose](./PART_04/)
 
