@@ -74,3 +74,15 @@
   - [Lab simplifié](./PART_06/LABS/LAB_00.md) 
   
 ---
+
+## [Partie 7 : Intégration avec Firestore](./PART_07/)
+
+1. **Introduction et configuration de Firestore** : Comprendre le fonctionnement de Firestore et configurer un projet **Firebase** pour **Android**.
+2. **Gestion des données avec Firestore** : Réaliser des opérations **CRUD** et synchroniser les données en temps réel.
+3. **Sécurité et structuration des données** : Implémenter les règles de sécurité **Firestore** et organiser efficacement les collections et documents.
+4. **Intégration Firestore et Jetpack Compose** : Afficher des données dynamiques dans Compose et gérer la persistance hors ligne.
+
+- [Théorie](./PART_07/THEORY/README.md)
+- [Lab](./PART_07/LABS/README.md)
+
+---
