@@ -3,7 +3,7 @@
 
 ---
 
-## [Partie 1 : Introduction à Kotlin](./PART_01/)
+## [Partie 1 : Introduction à Kotlin](./PART_01/THEORY/README.md)
 
 1. **Bases de Kotlin** : Types de données, variables, fonctions, opérateurs, structures conditionnelles.
 2. **Collections et boucles** : Listes, maps, boucles `for`, `while`.
@@ -22,7 +22,8 @@
 5. **Composants d’interface** : `Boutons`, `Images`, `Checkbox`, `Switch`, `TextField`.
 6. **Navigation Compose** : Naviguer entre différents écrans avec `Compose`.
 
-- [Labs](./PART_02/LABS/)
+- [Théorie](./PART_02/THEORY/README.md)
+- [Lab](./PART_02/LABS/LAB_00.md)
 
 ---
 
@@ -33,11 +34,10 @@
 3. **ViewModel et Compose** : Utilisation du `ViewModel` pour gérer l'état de l'interface.
 4. **Gestion des ressources** : Accéder aux ressources (couleurs, chaînes, dimensions).
 
-- [Labs](./PART_03/LABS/)
+- [Théorie](./PART_03/THEORY/README.md)
+- [Lab](./PART_03/LABS/LAB_00.md)
   
 ---
-
-Coming Soon
 
 ## [Partie 4 : Approfondissement de Jetpack Compose](./PART_04/)
 
@@ -47,11 +47,12 @@ Coming Soon
 4. **Gestion d'entrées utilisateur avancée** : Formulaires complexes, validation.
 5. **Interactions avancées** : Gesture detector, `drag & drop`, effets tactiles.
 
-- [Labs](./PART_04/LABS/)
+- [Théorie](./PART_04/THEORY/README.md)
+- [Lab](./PART_04/LABS/LAB_00.md)
   
 ---
 
-## [Partie 5 : Travaux Pratiques et Projets](./PART_05/)
+## [Partie 5 : Travaux Pratiques et Projets](./PART_05/THEORY_LABS/THEORY_LAB_00.md)
 
 1. **Application To-Do List** : Créer une application simple de gestion de tâches.
 2. **Application de profil utilisateur** : Mettre en place un profil avec des données dynamiques.
@@ -67,15 +68,9 @@ Coming Soon
 3. **Flux de données avec Flow et LiveData** : Utiliser `Flow` et `LiveData` pour gérer les données réactives.
 4. **Jetpack WorkManager** : Planifier des tâches en arrière-plan.
 
-- [Labs](./PART_06/LABS/)
+- [Théorie](./PART_06/THEORY/README.md)
+- [Lab](./PART_06/LABS/LAB_00.md)
   
----
-
-## [Partie 7 : Test et Déploiement](./PART_07/)
-
-1. **Tests d'interface avec Compose Testing** : Écrire des tests pour les composants `Compose`.
-2. **Tests unitaires avec ViewModel** : Tester la logique de l’application.
-3. **Préparer l'application pour le déploiement** : Optimisation, gestion des autorisations, préparation pour le `Play Store`.
-
-- [Labs](./PART_07/LABS/)
+  - [Lab simplifié](./PART_06/LABS/LAB_00.md) 
+  
 ---

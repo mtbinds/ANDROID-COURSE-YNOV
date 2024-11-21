@@ -7,7 +7,7 @@
 
 > **Ynov 2024**
 
-> **MT, Full Stack Developer, AI/Deveops/Security Engineer & IT Trainer**
+> **Prepared by MT, Full Stack Developer, AI/Deveops/Security Engineer & IT Trainer**
 
 ---
 
@@ -61,7 +61,7 @@ https://www.w3schools.com/kotlin/index.php
 
 ---
 
-# 2. Cours théoriques et pratiques (31/10/2024)
+# 2. Cours théoriques et pratiques
 
 [Théorie et pratique](./THEORY_LABS/README.md)
 
